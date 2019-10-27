@@ -1,0 +1,19 @@
+.nav {
+  border-radius: .45rem;
+  border: 1px solid #DADADA;
+  min-width: 130px;
+}
+
+.nav-item{
+  border-bottom: 1px solid #DADADA;
+  padding: 0;
+}
+
+.nav-link {
+  color: black;
+  margin: 0;
+}
+
+.tags {
+  margin: 5px;
+}
